@@ -1,0 +1,7 @@
+source_id,title,published_at,matched_keywords,body_name,geom_status,geom_25832,geom_note
+https://ris.example.org/oparl/paper/1,Bebauungsplan Nr. 999 – Rechenzentrum Am Osthafen,2026-03-12 00:00:00+00,{rechenzentrum},Frankfurt am Main (synthetic),resolved,POINT(480452.40205287165 5551286.061940317),
+https://ris.example.org/oparl/paper/2,Erweiterung des Umspannwerks Nord,2026-04-02 00:00:00+00,{umspannwerk},Frankfurt am Main (synthetic),unresolved,,"address only, no coordinates in source (no geocoder used)"
+https://ris.example.org/oparl/paper/3,Neue 110-kV-Leitung (Hochspannung),2026-05-20 00:00:00+00,"{110-kv,hochspannung}",Frankfurt am Main (synthetic),invalid,,"outside expected area (lon/lat swapped?): lon=50.12, lat=8.68"
+https://ris.example.org/oparl/paper/5,Antrag: Datacenter-Abwärme nutzen,,{datacenter},Frankfurt am Main (synthetic),none,,
+https://ris.example.org/oparl/paper/6,Trafostation Sachsenhausen,2026-07-15 07:30:00+00,{trafostation},Frankfurt am Main (synthetic),unresolved,,"location is a URL reference, not embedded"
+https://ris.example.org/oparl/paper/7,Rechenzentren im Stadtgebiet – Anfrage,2026-08-01 00:00:00+00,{rechenzentren},Kleinstadt ohne AGS (synthetic),none,,

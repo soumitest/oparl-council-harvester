@@ -1,0 +1,7 @@
+{
+  "id": "https://ris.example.org/oparl/system",
+  "type": "https://schema.oparl.org/1.1/System",
+  "oparlVersion": "https://schema.oparl.org/1.1/",
+  "name": "SYNTHETIC test system",
+  "body": "https://ris.example.org/oparl/body"
+}

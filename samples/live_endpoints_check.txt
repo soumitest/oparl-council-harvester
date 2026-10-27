@@ -1,0 +1,6 @@
+OK    Politik bei uns: OParl https://schema.oparl.org/1.0/ | bodies: ['Landkreis Ludwigslust-Parchim', 'Leipzig', 'Aachen', 'Wuppertal', 'Moers']
+OK    Kronberg im Taunus: OParl https://schema.oparl.org/1.1/ | bodies: ['Stadt Kronberg im Taunus']
+FAIL  Rosbach v. d. Höhe: OParlHTTPError: HTTP 404 on https://www.rosbach.sitzung-online.de/bi/oparl/1.0/system.asp
+OK    Schmitten: OParl https://schema.oparl.org/1.1/ | bodies: ['Gemeinde Schmitten im Taunus']
+OK    Glashütten: OParl https://schema.oparl.org/1.1/ | bodies: ['Gemeinde Glashütten']
+FAIL  OParl Mirror: OParlHTTPError: giving up on https://mirror.oparl.org/system: [Errno 11001] getaddrinfo failed

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "https://ris.example.org/oparl/paper/1",
+      "name": "Bebauungsplan Nr. 999 – Rechenzentrum Am Osthafen",
+      "date": "2026-03-12",
+      "web": "https://ris.example.org/vorlage/1",
+      "location": {
+        "description": "Osthafen",
+        "streetAddress": "Hanauer Landstraße 1",
+        "postalCode": "60314",
+        "locality": "Frankfurt am Main",
+        "geometry": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.7266,
+              50.1135
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "https://ris.example.org/oparl/paper/5",
+      "name": "Antrag: Datacenter-Abwärme nutzen",
+      "date": "kein-datum"
+    },
+    {
+      "id": "https://ris.example.org/oparl/paper/6",
+      "name": "Trafostation Sachsenhausen",
+      "created": "2026-07-15T09:30:00+02:00",
+      "web": "https://ris.example.org/vorlage/6",
+      "location": "https://ris.example.org/oparl/location/77"
+    }
+  ],
+  "links": {}
+}

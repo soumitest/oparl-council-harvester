@@ -1,0 +1,108 @@
+
+===== Kronberg: 979 papers
+fields: auxiliaryFile=771, body=979, consultation=977, created=979, date=963, id=979, mainFile=979, modified=979, name=979, paperType=979, reference=979, type=979, underDirectionOf=891, web=979
+strict matches: none
+  'rechen': 0
+  'umspann': 0
+  'trafo': 0
+  'transformator': 0
+  'hochspann': 0
+  'kv': 0
+  'server': 14
+     - Wahl eines Vertreters eines Mitgliedes der Betriebskommission; Wahl eines Vertreters eines Mitgliedes des Abwa
+     - Wahl eines Mitglieds der Betriebskommission und Wahl von dessen Vertreter; Wahl des Vertreters eines Mitglieds
+     - 4. Änderung zur Wasserversorgungssatzung (WVS) der Stadt Kronberg im Taunus zwecks Implementierung fern abfrag
+     - Durchführung von Wahlen 1 Wahl eines Mitglieds der Betriebskommission und Wahl von 2 stellvertretenden Mitglie
+     - Gefahrenabwehrverordnung über die Einschränkung des Wasserverbrauchs bei Notständen in der Wasserversorgung im
+  'daten': 3
+     - Umsetzung der europäischen INSPIRE-Richtlinie im Hochtaunuskreis Aufbau einer kreisweiten Geodateninfrastruktu
+     - Fortsetzung der Geodateninfrastruktur Hochtaunuskreis und Umsetzung der europäischen „INfrastructure for SPati
+     - Fortsetzung der Geodateninfrastruktur Hochtaunuskreis und Umsetzung der europäischen „INfrastructure for SPati
+  'energie': 4
+     - Energieeinsparung Waldschwimmbad Antrag der Fraktion Bündnis 90/Die Grünen vom 15.04.2011
+     - Energieanalyse zur Verbesserung der Energieeffizienz von Abwasserbehandlungsanlagen Antrag der Fraktionen von 
+     - Energieeinsparmassnahmen Schwimmbad Antrag UBG Fraktion vom 03.03.2012
+     - Energiegenossenschaft; Antrag der FDP Fraktion vom 12.05.2023
+  'strom': 3
+     - Vorschläge zur Errichtung einer Solaranlage zur Stromerzeugung Antrag der Fraktion Bündnis 90/Die Grünen vom 2
+     - Machbarkeitsbetrachtung zur Nutzung von „Quartiersspeichern“ im Rahmen des Stromkreisbilanzmodells der Stadt K
+     - Vergabeempfehlung Strombeschaffung im Bilanzkreismodell ab 2027.
+  'netz': 4
+     - Nutzung eines kostenfreien W-Lan Netzes für Kronberger Bürger Antrag UBG-Fraktion vom 19.04.2016
+     - Kooperationsvereinbarung mit der Deutschen GigaNetz GmbH zum flächendeckenden Ausbau einer gigabitfähigen Glas
+     - Breitbandausbau Dt. Giganetz; hier: Vergabe baubegleitende Qualitätssicherung
+     - Hitzeschutz in Kronberg - flexible Begrünung und Beschattung des Berliner Platzes, des Dalles, Trinkbrunnen un
+
+===== Schmitten: 497 papers
+fields: auxiliaryFile=340, body=497, consultation=497, created=497, date=497, id=497, mainFile=497, modified=497, name=497, paperType=497, reference=497, type=497, underDirectionOf=497, web=497
+strict matches: none
+  'rechen': 2
+     - Grundsatzbeschluss zur Einstellung der entsprechenden Zuschussmittel für den Neubau Tierheim Hochtaunus in die
+     - Wahl einer Vertreterin/eines Vertreters und deren/dessen Stellvertreter/in der Gemeinde Schmitten im Taunus fü
+  'umspann': 0
+  'trafo': 0
+  'transformator': 0
+  'hochspann': 0
+  'kv': 7
+     - Wahl einer Stellvertreterin oder Stellvertreter für die Verbandsversammlung des Zweckverbandes Verkehrsverband
+     - Wahl einer Vertreterin oder der Vertreter für die Verbandsversammlung des Zweckverbandes Verkehrsverband Hocht
+     - Bisheriges Ergebnis der Befahrungen im Rahmen der Eigenkontrolle von Abwasseranlagen (EKVO) und erforderliche 
+     - Bauleitplanung der Gemeinde Schmitten, Ortsteil Schmitten Bebauungsplan „Im Grund“ 3. Änderung Rückverweisung 
+     - Satzungsänderung "Zweckverband Feldberghof" künftig "Großer Feldberg"
+  'server': 10
+     - Antrag der FWG Fraktion betr. „Sachstand Wasserversorgung, Gestaltung der Wassergebühren, Zisternen und Nutzun
+     - Anfrage der FWG Fraktion betr. „Unabhängige Stromversorgung der öffentlichen Gebäude sowie der Trinkwasservers
+     - Anfrage der FWG-Fraktion betr."Trinkwasserversorgung Brombach und Hunoldstal"
+     - Beratung und Beschlussfassung über den Entwurf der 5. Änderungssatzung zur Wasserversorgungssatzung (WVS) der 
+     - Beratung und Beschlussfassung über den Entwurf der 6. Änderungssatzung zur Wasserversorgungssatzung (WVS) der 
+  'daten': 0
+  'energie': 10
+     - Antrag der SPD Fraktion betr. „Geplanter Neubau einer Kindertagesstätte in Oberreifenberg durch die accadis In
+     - Antrag der FWG Fraktion betr. Arbeitsgemeinschaft "Nutzung erneuerbarer Energiequellen in Schmitten"
+     - Antrag der FWG Fraktion betr. Arbeitsgemeinschaft "Nutzung von erneuerbaren Energiequellen in Schmitten" und A
+     - Gasmangellage / Energiekrise
+     - Sachstandsbericht der Arbeitsgemeinschaft Erneuerbare Energien Schmitten
+  'strom': 2
+     - Anfrage der FWG Fraktion betr. „Unabhängige Stromversorgung der öffentlichen Gebäude sowie der Trinkwasservers
+     - Projektbericht über die Besucherstromlenkung des Feldbergplateaus der Hochschule Heilbronn
+  'netz': 0
+
+===== Glashuetten: 643 papers
+fields: auxiliaryFile=277, body=643, consultation=642, created=643, date=642, id=643, mainFile=643, modified=643, name=643, paperType=643, reference=643, type=643, underDirectionOf=548, web=643
+strict matches: none
+  'rechen': 5
+     - Sachstandsbericht zur Mehrzweckhalle im Ortsteil Schloßborn - Planung entsprechend Beschluss (MZH und Kreisspo
+     - Grundsatzbeschluss der Bürgermeisterdienstversammlung vom 24.01.2024 zur Einstellung der entsprechenden Zuschu
+     - Ersatzbauwerk des Rechens vor der Unterführung Emsbach / Mühlweg Finanzierung und Ausschreibung
+     - Kenntnisnahme des Sachstandes "Umbau Rechen Emsbach Mühlweg" im Ortsteil Oberems
+     - Ersatzneubau Rechenbauwerk OT Oberems, Mühlweg/Emsbach
+  'umspann': 0
+  'trafo': 0
+  'transformator': 0
+  'hochspann': 0
+  'kv': 5
+     - Vertragsabschluss zwischen der Gemeinde Glashütten als Vorhabenträger und der Hessischen Landgesellschaft mbH 
+     - Wahl von je zwei Vertreterinnen / Vertreter und Stellvertreterinnen / Stellvertreter in die Verbandsversammlun
+     - Wahl einer Stellvertreterin /eines Stellvertreters in die Verbandsversammlung des Zweckverbandes "Verkehrsverb
+     - Wahl einer / eines Stellvertreterin / Stellvertreters in die Verbandsversammlung des Zweckverbandes "Verkehrsv
+     - Wahl von je zwei Vertreterinnen / Vertreter und Stellvertreterinnen / Stellvertreter in die Verbandsversammlun
+  'server': 17
+     - Wahl einer Vertreterin/Vertreter in die Verbandsversammlung des Abwasserverbandes "Emsbachtal"
+     - Wasserversorgung - Gefahrenabwehrverordnung
+     - Wahl eines ordentlichen Mitgliedes und eines stellvertretenden Mitgliedes in den Verbandsvorstand des "Abwasse
+     - Wahl von je zwei Vertreterinnen / Vertretern und Stellvertreterinnen / Stellvertreter in die Verbandsversammlu
+     - Wahl eines ordentlichen Mitgliedes und eines stellvertretenden Mitgliedes in den Verbandsvorstand des Abwasser
+  'daten': 3
+     - Antrag der CDU-Fraktion vom 26.04.2018 bezüglich einer „Vereinsunterstützung bei der Umsetzung der EU-Datensch
+     - Antrag der CDU Fraktion bezüglich: „Verstoß gegen das Gesetz des unlauteren Wettbewerbs UWG“ Wichtiger Hinweis
+     - Kenntnisnahme der Eckdaten zum finalen Abschluss der Waldbewirtschaftung 2021
+  'energie': 5
+     - Antrag der CDU-Fraktion vom 30.01.2018 zum Thema "Beratung zur Umstellung unserer Straßenbeleuchtung auf LED-T
+     - Gründung einer gemeinsamen Netzeigentumsgesellschaft (NEG) mit dem derzeitigen Konzessionsnehmer SÜWAG Energie
+     - Umsetzung des erarbeiteten Energiekonzeptes für das Baugebiet „Am Silberbach“
+     - Kenntnisnahme des Schreibens vom 13. Januar 2026 des Hessischen Ministeriums für Wirtschaft, Energie, Verkehr,
+     - Kenntnisnahme des Schreibens von Hessischen Ministerium für Wirtschaft, Energie, Verkehr, Wohnen und ländliche
+  'strom': 1
+     - Bündelausschreibung Strom 2024ff
+  'netz': 1
+     - Gründung einer gemeinsamen Netzeigentumsgesellschaft (NEG) mit dem derzeitigen Konzessionsnehmer SÜWAG Energie

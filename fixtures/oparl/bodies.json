@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "https://ris.example.org/oparl/body/1",
+      "type": "https://schema.oparl.org/1.1/Body",
+      "name": "Frankfurt am Main (synthetic)",
+      "ags": "06412000",
+      "paper": "https://ris.example.org/oparl/body/1/paper"
+    },
+    {
+      "id": "https://ris.example.org/oparl/body/2",
+      "type": "https://schema.oparl.org/1.1/Body",
+      "name": "Berlin (synthetic, must be filtered out)",
+      "ags": "11000000",
+      "paper": "https://ris.example.org/oparl/body/2/paper"
+    },
+    {
+      "id": "https://ris.example.org/oparl/body/3",
+      "type": "https://schema.oparl.org/1.1/Body",
+      "name": "Kleinstadt ohne AGS (synthetic)",
+      "paper": "https://ris.example.org/oparl/body/3/paper"
+    }
+  ],
+  "links": {}
+}

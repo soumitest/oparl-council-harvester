@@ -1,0 +1,8 @@
+{
+  "https://ris.example.org/oparl/system": "system.json",
+  "https://ris.example.org/oparl/body": "bodies.json",
+  "https://ris.example.org/oparl/body/1/paper": "papers1.json",
+  "https://ris.example.org/oparl/body/1/paper?page=2": "papers2.json",
+  "https://ris.example.org/oparl/body/2/paper": "papers_body2.json",
+  "https://ris.example.org/oparl/body/3/paper": "papers_body3.json"
+}

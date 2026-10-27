@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "https://ris.example.org/oparl/paper/1",
+      "type": "https://schema.oparl.org/1.1/Paper",
+      "name": "Bebauungsplan Nr. 999 – Rechenzentrum Am Osthafen",
+      "date": "2026-03-12",
+      "web": "https://ris.example.org/vorlage/1",
+      "location": {
+        "description": "Osthafen",
+        "streetAddress": "Hanauer Landstraße 1",
+        "postalCode": "60314",
+        "locality": "Frankfurt am Main",
+        "geometry": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.7266,
+              50.1135
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "https://ris.example.org/oparl/paper/2",
+      "name": "Erweiterung des Umspannwerks Nord",
+      "date": "2026-04-02",
+      "web": "https://ris.example.org/vorlage/2",
+      "location": {
+        "streetAddress": "Musterweg 5",
+        "postalCode": "60437",
+        "locality": "Frankfurt am Main"
+      }
+    },
+    {
+      "id": "https://ris.example.org/oparl/paper/3",
+      "name": "Neue 110-kV-Leitung (Hochspannung)",
+      "date": "2026-05-20",
+      "web": "https://ris.example.org/vorlage/3",
+      "location": {
+        "description": "Koordinaten vertauscht (lat/lon swapped)",
+        "geometry": {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              50.12,
+              8.68
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "https://ris.example.org/oparl/paper/4",
+      "name": "Haushaltsplan 2027",
+      "date": "2026-06-01",
+      "web": "https://ris.example.org/vorlage/4"
+    },
+    "this is not an object",
+    {
+      "title": "object without id"
+    }
+  ],
+  "links": {
+    "next": "https://ris.example.org/oparl/body/1/paper?page=2"
+  }
+}
