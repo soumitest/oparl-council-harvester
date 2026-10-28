@@ -11,7 +11,7 @@ Harvests municipal council documents (OParl `Paper` objects) from public OParl A
 | Live run (2026-10-27) | 3 sources, 2,119 papers read, 0 malformed, 0 errors |
 | Genuine signals found | **0** (one false positive was found, analysed and excluded – see section 6) |
 | Re-run behaviour | no duplicates (verified on live data and in automated tests) |
-| Coordinates | the three sources publish **no** `location` on papers, so no geometry can be derived from them (section 7) |
+| Coordinates | the three sources publish **no** `location` on papers, so no geometry can be derived from them (section 9) |
 | Tests | 39 run without a database, +3 PostGIS tests when `TEST_DATABASE_URL` is set |
 
 ---
